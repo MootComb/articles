@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Articles</title>
+    <link href="https://MootComb.github.io/articles/feed.xml" rel="self" />
+    <link href="https://MootComb.github.io/articles" />
+    <updated>1970-01-01T05:00:00+05:00</updated>
+    <author>
+        <name>MootComb</name>
+    </author>
+    <id>https://MootComb.github.io/articles</id>
+
+</feed>
